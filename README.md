@@ -1,6 +1,6 @@
 This is a complete well automated chess game made by object oriented javascript I hope you like it.
 
-Play it from here: https://ahmadalkholy.github.io/Javascript-Chess-Game/chess.html
+Play it from here:  https://jay6879.github.io/chess-game/
 
 ------------
 
